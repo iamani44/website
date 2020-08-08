@@ -1,0 +1,69 @@
+
+
+
+.navbar-custom
+{
+    background-color: rgb(2, 2, 17);
+    height: 80px;
+    margin-bottom: 0px;
+}
+.bgcolor{
+   
+    background-color: rgb(206, 217, 248);
+    margin-bottom: 0px;
+}
+
+.head
+{
+  margin-top: 0px;
+    text-align: center;
+    font-weight: bold;
+    color:black;
+    margin-bottom: 50px;
+}
+.image{
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+
+.my-nav li{
+    padding-right: 20px;
+
+}
+
+.my-nav a{
+    font-size: 20px;
+    font-weight: bold;
+    color: lightyellow;
+
+}
+
+.my-nav a:hover{
+    color: darkorange;
+    text-decoration: none;
+}
+
+.my-para{
+    text-align: justify;
+    padding:50px;
+    
+    
+}
+
+
+
+
+
+.my-footer li{
+    
+    list-style-type: none;
+    padding: 20px;
+}
+
+.my-footer p{
+    text-align: center;
+    color: lightskyblue
+}
+.footer-custom{
+    background-color: black;
+}
